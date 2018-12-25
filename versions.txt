@@ -1,6 +1,4 @@
-first version
-add file after clone https://github.com/asafshaar/learn.android
-add
-commit 
-push
-
+seconds version
+change the file
+and now will commit it 
+it is like save as
